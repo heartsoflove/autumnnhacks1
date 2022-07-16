@@ -1,0 +1,99 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  padding: none;
+  margin: none;
+}
+
+body {
+  background-color: #FFFCF6;
+}
+
+
+nav {
+  font-family: 'Koulen', cursive;
+}
+
+#ftitle {
+  font-size: 5vw;
+  text-align: center;
+  font-family: 'Koulen', cursive;
+  color: #FFFCF6;
+  text-shadow: 0 0 10px #FFFCF6, 0 0 20px #FFFCF6, 0 0 30px #deb0a9, 0 0 40px #deb0a9, 0 0 50px #deb0a9, 0 0 60px #deb0a9, 0 0 70px #deb0a9;
+  margin-top: 15vw;
+}
+
+#logoimage {
+  width: 45vw;
+}
+
+#registerbutton {
+  background: #deb0a9;
+  border: 0.5vw #deb0a9;
+  border-radius: 35%;
+  font-size: 1vw;
+  height: 5vw;
+  width: 10vw;
+  text-align: center;
+  margin-left: 10vw;
+  margin-top: 2.5vw;
+  font-family: 'Varela Round', sans-serif;
+}
+
+#registerbutton a {
+  text-decoration: none;
+  color: #FFFCF6;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  color: grey;
+}
+
+.titles {
+  font-family: 'Koulen', cursive;
+  font-size: 5.5vw;
+  
+}
+
+.paragraphon {
+  font-family: 'Varela Round', sans-serif;
+  font-size: 1vw;
+  text-align: center;
+}
+
+.paragraph {
+  font-family: 'Varela Round', sans-serif;
+}
+
+#sponsors {
+ margin-top: 125vw; 
+}
+
+.right {
+  margin-left: 10vw;
+}
+
+#footertext {
+  color: black;
+  font-family: 'Varela Round', sans-serif;
+}
+
+hr {
+  width: 100%;
+  height: 0.8vw;
+  margin-left: none;
+  margin-right: none;
+/*   background-color: #deb0a9; */
+  background-color: #000000;
+  border: 0 none;
+}
+
+#teamname {
+  text-align: center;
+}
+/* f27a55 */
