@@ -78,6 +78,11 @@ a:hover {
   margin-left: 10vw;
 }
 
+.resize {
+  height: 2vw;
+  width: auto;
+}
+
 #footertext {
   color: black;
   font-family: 'Varela Round', sans-serif;
